@@ -1,3 +1,4 @@
 var elem = document.getElementById("text-elem");
 
-elem.innerHTML = "new text";
+elem.innerHTML = "hello world";
+console.log(elem.innerHTML);
